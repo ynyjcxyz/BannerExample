@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android_Interface/BannerTest/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2375" />
+        <entry key="..\:/Android_Interface/BannerTest/app/src/main/res/drawable-v24/outline_phone_24.xml" value="0.23541666666666666" />
+        <entry key="..\:/Android_Interface/BannerTest/app/src/main/res/drawable-v24/outline_place_24.xml" value="0.23541666666666666" />
+        <entry key="..\:/Android_Interface/BannerTest/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2375" />
         <entry key="..\:/Android_Interface/BannerTest/app/src/main/res/layout/activity_main.xml" value="0.2115036231884058" />
+        <entry key="..\:/Android_Interface/BannerTest/app/src/main/res/layout/list_content.xml" value="0.21197916666666666" />
+        <entry key="..\:/Android_Interface/BannerTest/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.4036458333333333" />
       </map>
     </option>
   </component>
